@@ -1,1 +1,5 @@
-# kanban
+# MILESTONE 2
+## STUDENTS IDs:
+ID1
+ID2
+ID3
